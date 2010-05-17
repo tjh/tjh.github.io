@@ -1,0 +1,24 @@
+---
+layout: default
+title: 
+---
+
+<div id="home">
+  <h2>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+  <h2>Contact me</h1>
+  <ul class="contacts">
+    <li><span>Twitter</span> &raquo; <a href="http://twitter.com/tihm/">@tihm</a></li>
+  </ul>
+  
+  <h2>Open Source Projects</h1>
+  <ul class="projects">
+    <li><a href="http://github.com/tjh/am-i-down/">Am I Down?:</a> Automated site monitoring and alerting system</li>
+  </ul>
+</div>
+  
