@@ -1,4 +1,4 @@
-h1. Blog build with Jekyll
+h1. Blog built with Jekyll
 
 It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site.
 
