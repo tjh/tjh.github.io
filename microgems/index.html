@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <!-- Slide meta data, remove/edit as you see fit -->
+    <title>MicroGems Presentation by Tim Harvey - Feb 8, 2012</title>
+    <meta name="generator" content="Organic" />
+    <meta name="author" content="Jordi Boggiano" />
+    <meta name="company" content="Nelmio AG" />
+    <meta name="email" content="j.boggiano@seld.be" />
+    <meta name="date" content="2010-05-30" />
+    <meta name="venue" content="The Internets" />
+    <!-- Slippy core file and dependencies -->
+    <script type="text/javascript" src="src/jquery.min.js"></script>
+    <script type="text/javascript" src="src/jquery.history.js"></script>
+    <script type="text/javascript" src="src/slippy.js"></script>
+    <!-- Slippy structural styles -->
+    <link type="text/css" rel="stylesheet" href="src/slippy.css"/>
+    <!-- Slippy theme -->
+    <link type="text/css" rel="stylesheet" href="src/slippy-pure.css"/>
+    <!-- Syntax highlighting core file  -->
+    <script type="text/javascript" src="src/highlighter/shCore.js"></script>
+    <!-- Syntax highlighting brushes, remove those you don't need -->
+    <script type="text/javascript" src="src/highlighter/shBrushRuby.js"></script>
+    <script type="text/javascript" src="src/highlighter/shBrushXml.js"></script>
+    <!-- Syntax highlighting styles-->
+    <link type="text/css" rel="stylesheet" href="src/highlighter/shCore.css"/>
+    <link type="text/css" rel="stylesheet" href="src/highlighter/shThemeEclipse.css"/>
+    <!-- Slippy init code -->
+    <script type="text/javascript">
+      $(function() {
+        $(".slide").slippy({
+          // settings go here
+          // possible values are:
+          //  - animLen, duration for default animations (0 = disabled)
+          //  - animInForward, receives a slide and animates it
+          //  - animInRewind, receives a slide and animates it
+          //  - animOutForward, receives a slide and animates it
+          //  - animOutRewind, receives a slide and animates it
+          //  - baseWidth, defines the base for img resizing, if you don't want only
+          //    full-width images, specify this as the pixel width of a slide so that
+          //    images are scaled properly (default is 620px wide)
+          //  - ratio, defines the width/height ratio of the slides, defaults to 1.3 (620x476)
+          //  - margin, the fraction of screen to use as slide margin, defaults to 0.15
+
+          'ratio': '1.77' // 16:9
+        });
+        SyntaxHighlighter.all();
+      });
+    </script>
+    <!-- Custom style for this deck -->
+    <style type="text/css">
+      body {
+        line-height: 1.6;
+        color: #fdf7f1;
+        background: #292A2C;
+      }
+
+      h1 {
+        font-weight: 100;
+        font-size: 4.5em;
+        font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      }
+
+      li {
+        font-size: 2.4em;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-weight: 150;
+      }
+
+      a:visited, a:active, a:link, a {
+        color: #b5bdca;
+      }
+
+      .slide.nofooter {
+          border: 0;
+          background: 0;
+      }
+
+      .large-print {
+        list-style: none;
+      }
+
+      .small-print {
+        list-style: none;
+        font-size: 0.6em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide">
+    <h1>MicroGems:<br />Eliminating barriers</h1>
+    
+    <div class="footer">
+      <span class="left">Tim Harvey: <a href="http://twitter.com/tihm/">@tihm</a></span>
+      <span class="right">Built with <a href="http://github.com/Seldaek/slippy/">Slippy</a></span>
+      <hr class="defloat" />
+    </div>
+    </div>
+
+    <div class="slide">
+      <h1>Follow along at home</h1>
+      <div class="vcenter">
+        <ul class="large-print">
+          <li><a href="http://tjh.github.com/microgems">http://tjh.github.com/microgems</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>(I lied)</h1>
+      <div class="vcenter">
+        <ul class="large-print">
+          <li>this is really a talk about reducing friction</li>
+          <li>...so you spend more time doing real work...</li>
+          <li>and less time doing busywork</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>Takeaways from this talk</h1>
+      <div class="vcenter">
+        <ul>
+          <li>get annoyed more often</li>
+          <li>let annoyance guide your tools improvement</li>
+          <li>i want you to make a gem in the next 7 days</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>Hard road</h1>
+      <div class="vcenter">
+        <img src="images/2.jpg" />
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>Easy road</h1>
+      <div class="vcenter">
+        <img src="images/1.jpg" />
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>MicroGems</h1>
+      <div class="vcenter">
+        <ul class="large-print">
+          <li>least amount of work to make a gem.</li>
+          <li>share code between projects and with others.</li>
+          <li>...has some drawbacks</li>
+        </ul>
+      </div>
+      <div class="footer">
+        <a href="http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/">http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/</a>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>MicroGems Blog Post</h1>
+      <div class="vcenter">
+        <img src="images/3.jpg" />
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>#acts_as_boolean example</h1>
+      <pre class="brush: ruby">
+        class Comment < ActiveRecord::Base
+          extend ActsAsBoolean
+
+          acts_as_boolean :is_published
+        end
+
+        comment = Comment.new
+        comment.is_published? # => false
+        comment.is_published = 'yes'
+        comment.is_published? #=> true
+      </pre>
+    </div>
+
+    <div class="slide">
+      <h1>gist.github.com/1302883</h1>
+      <pre class="brush: ruby">
+        module ActsAsBoolean
+          def acts_as_boolean(*attributes)
+            [*attributes].each do |attribute|
+
+              # Define the = setter method
+              attr_writer attribute
+
+              # Define the ? accessor method
+              define_method("#{attribute}?") { !!instance_variable_get("@#{attribute}") }
+
+            end
+          end
+        end
+
+        ActiveRecord::Base.send :extend, ActsAsBoolean
+      </pre>
+    </div>
+
+    <div class="slide">
+      <h1>#bang example</h1>
+      <pre class="brush: ruby">
+        class Comment < ActiveRecord::Base
+          extend Bang
+
+          bang :permalink_title => :permalink
+
+          before_save :permalink_title!
+
+          def permalink_title
+            title.parameterize
+          end
+        end
+      </pre>
+    </div>
+
+    <div class="slide">
+      <h1>gist.github.com/1232884</h1>
+      <pre class="brush: ruby">
+        module Bang
+
+          def bang(attributes)
+
+            [*attributes].each do |attribute|
+              key, value = attribute
+              define_method("#{key}!") { update_attribute(value || key, send(key)) }
+            end
+
+          end
+
+        end
+      </pre>
+    </div>
+
+    <div class="slide">
+      <h1>What about my Gemfile?</h1>
+      <pre class="brush: ruby">
+        ...
+        gem 'acts_as_boolean', :git => 'git://gist.github.com/1302883.git'
+        ...
+      </pre>
+    </div>
+    
+    <div class="slide">
+      <h1>(there are drawbacks)</h1>
+      <div class="vcenter">
+        <ul class="large-print">
+          <li>what about versioning?</li>
+          <li>not as "stable" as RubyGems.org? transitory?</li>
+          <li>weak/no: forking, pull requests, issues</li>
+          <li>hard to find?</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="slide">
+      <h1>micro-cutter</h1>
+      <div class="vcenter">
+        <h2>Outputs a gem skeleton because:</h2>
+        <ul>
+          <li>i'm forgetful/lazy, so I need a crutch.</li>
+          <li>for me to use gems, it has to be easy</li>
+          <li>...and I needed to lean about gems</li>
+        </ul>
+      </div>
+      <div class="footer">
+        <a href="https://github.com/tjh/micro-cutter">https://github.com/tjh/micro-cutter</a>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>Usina Mini-Cutter</h1>
+      <pre class="brush: ruby">
+        # Call the executable, passing a camel cased class name:
+
+          mini-cutter ActsAsBoolean
+
+        # This creates boilerplate files (overwriting any already there):
+
+          README.md
+          acts_as_boolean.gemspec
+          acts_as_boolean.rb
+          acts_as_boolean_spec.rb
+      </pre>
+    </div>
+
+    <div class="slide">
+      <h1>Takeaways from this talk</h1>
+      <div class="vcenter">
+        <ul>
+          <li>get annoyed more often</li>
+          <li>let annoyance guide your tools improvement</li>
+          <li>i want you to make a gem in the next 7 days</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="slide">
+      <h1>Help me improve</h1>
+      <div class="vcenter">
+        <ul style="list-style:none;">
+          <li>Please rate my talk on SpeakerRate:</li>
+          <li>
+            <a style="font-size: 0.7em;" href="http://speakerrate.com/talks/9257-microgems-eliminating-barriers">
+              http://speakerrate.com/talks/9257-microgems-eliminating-barriers
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="slide">
+      <h1>Credits</h1>
+      <ul class="small-print">
+        <li>MicroGems: http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/</li>
+        <li>Photo 1: http://www.flickr.com/photos/rengber/5971502235/</li>
+        <li>Photo 2: http://www.flickr.com/photos/nicholas_t/3427375143/</li>
+        <li></li>
+      </ul>
+    </div>
+
+    <div class="layout nofooter" data-name="default">
+      <content></content>
+    </div>
+  </body>
+</html>
