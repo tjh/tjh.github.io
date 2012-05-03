@@ -1,3 +1,6 @@
+# Script from Vitto Botta blog post:
+# http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#converting-to-markdown
+
 %w(rubygems sequel fileutils yaml active_support/inflector).each{|g| require g}
 
 require File.join(File.dirname(__FILE__), "downmark_it.rb")
@@ -22,17 +25,6 @@ module WordPress
 
     EOS
 
-    categories_and_tags_query = <<-EOS
-
-      SELECT 		  t.taxonomy, term.name, term.slug
-      FROM 		    #{table_prefix}_term_relationships AS tr
-      INNER JOIN	#{table_prefix}_term_taxonomy AS t ON t.term_taxonomy_id = tr.term_taxonomy_id
-      INNER JOIN 	#{table_prefix}_terms AS term ON term.term_id = t.term_id
-      WHERE		    tr.object_id = %d
-      ORDER BY	  tr.term_order
-
-    EOS
-
     db[query].each do |post|
 
       title      = post[:post_title]
@@ -48,14 +40,6 @@ module WordPress
       puts title
 
       `wget -O "images/posts/featured/#{image}" "#{post[:post_image]}"` unless File::exists?("images/posts/featured/#{image}") || post[:post_image].nil?
-
-      #db[categories_and_tags_query % post[:ID]].each do |category_or_tag|
-        #eval(category_or_tag[:taxonomy].pluralize) << {
-          #"title"    => category_or_tag[:name],
-          #"slug"     => category_or_tag[:slug],
-          #"autoslug" => category_or_tag[:name].downcase.gsub(" ", "-")
-        #}
-      #end
 
       data = {
          'layout'        => 'post',

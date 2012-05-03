@@ -1,22 +1,14 @@
 ---
 layout: default
 ---
-<div class='span-15 colborder'>
-  <div id="post">
-  {{ content }}
-  </div>
-</div>
-<div class='span-7 last'>
-  <h2>
-    Any
-    <span class='alt'>related</span>
-    posts
-  </h2>
-  <div id="related">
-    <ul class="posts">
-      {% for post in site.related_posts limit:3 %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+<div id="content">
+
+  <div class="post" id="post-<?php the_ID(); ?>">
+
+    <h2><a href="/">timharvey</a>: <b>{{ page.title }}</b></h2>
+
+    <div class="entry">
+      {{ page.content }}
+    </div>
   </div>
 </div>

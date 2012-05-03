@@ -1,3 +1,5 @@
+# From https://github.com/cousine/downmark_it
+
 # =Overview
 # DownmarkIt is a library to convert HTML to markdown, based on Hpricot[http://github.com/hpricot/hpricot/].
 #
