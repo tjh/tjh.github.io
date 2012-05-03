@@ -1,20 +1,20 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-  <head>
-    <link href='/stylesheets/screen.css' media='screen, projection' rel='stylesheet' type='text/css' />
-    <link href='/stylesheets/print.css' media='print' rel='stylesheet' type='text/css' />
-    <!--[if IE 6]> ><link rel="stylesheet" type="text/css" href="/stylesheets/ie.css" /><![endif] <![endif]-->
-  </head>
-  <body class="three-col bp">
-    <div id="container">
-      <div id="header">
-        <h1>Tim Harvey</h1>
-        <hr />
-        <h2 class='alt'>{{ page.title }}</h2>
-        <hr />
-      </div>
-      <hr class='space' />
-      {{ content }}
-    </div>
-  </body>
+<!DOCTYPE HTML> 
+<html lang=en>
+
+<head profile="http://gmpg.org/xfn/11">
+  <title>{{ page.title }}</title>
+
+  <link href='/stylesheets/screen.css' media='screen, projection' rel='stylesheet' type='text/css' />
+  <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
+</head>
+<body>
+
+<div id="container">
+	<div id="content">
+    {{ content }}
+  </div>
+</div>
+
+</body>
 </html>
+
