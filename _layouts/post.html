@@ -6,6 +6,6 @@ layout: default
     <h2><a href="/">timharvey</a>: <b>{{ page.title }}</b></h2>
 
     <div class="entry">
-      {{ page.content }}
+      {{ page.content | markdownify }}
     </div>
   </div>
