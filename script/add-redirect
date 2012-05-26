@@ -1,0 +1,36 @@
+#!/usr/bin/ruby
+
+Dir.foreach('./../_posts') do |item|
+  next if item == '.' || item == '..'
+
+  # Strip the extension off
+  filename = item.split('.').first
+
+  # Break down the filename
+  parts = filename.split('-')
+
+  # Recombine it into the folders and permalink
+  permalink = "/#{parts.shift}/#{parts.shift}/#{parts.shift}/#{parts.join('-')}/"
+
+  puts permalink
+
+  file_contents = File.read "./../_posts/#{item}"
+  
+  # Don't add redirections again
+  next if file_contents.match /redirection:\s/
+
+  # Add redirection YML
+  new_contents = file_contents.gsub(
+    /\s---/,
+    %Q{
+
+redirection:
+- #{permalink}
+
+---}
+  )
+
+  File.open("./../_posts/#{item}", 'w') do |file|
+    file.puts new_contents
+  end
+end
