@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/03/04/rvm-installation-of-ruby-enterprise-edition-on-ubuntu-hardy/
+
 ---
 I decided to try out Rackspace Cloud for a new worker server that [Am I Down](http://amidownhq.com/) needed. Since I wanted to keep the system tight on memory usage, I decided to go with Ruby Enterprise Edition. Unfortunately, I ran into a snag getting it installed via RVM (the terrific tool for running multiple versions of Ruby).I kept getting this error after running "rvm install ree":
 

@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/26/ppl-day-13-unit-tests/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Get a handle on this PPL thing with my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._
 

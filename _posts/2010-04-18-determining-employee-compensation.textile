@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Determining employee compensation
+
+redirection:
+- /2010/04/18/determining-employee-compensation/
+
 ---
 
 Since none of us exist as completely self-sufficient agrarians, we will all accept some form of compensation for the work we do. For most of us, that will come in the form of a check from our employer while some will pursue self-employment. Put simply, compensation represents the price tag for the work a person does.

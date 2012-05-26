@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/18/ppl-day-5-good-comments/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Be sure to read [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if this doesn't make sense to you!_[![](http://timharvey.net/wp-content/Screen-shot-2010-06-18-at-8.56.39-AM1.png "PPL Chain")](http://dontbreakthechain.com/share/timharvey/one-up/40350)It's Friday, and I'm a little apprehensive about PPL, heading into the weekend. I've made great progress this week, reading and blogging all week long. I need to keep the big mo going and stay on the wagon. Here's my progress thus far (and yes, I counted the several days of ramp-up blogging...don't judge me):Today's reading was on Comments. I made it through the first section on "Good comments". I stopped my reading short before hitting the rather long "bad comments" heading.## Today's reading: pg 53 - pg 59
 

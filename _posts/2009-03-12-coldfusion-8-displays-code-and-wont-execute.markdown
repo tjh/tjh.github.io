@@ -7,6 +7,9 @@ categories: []
 
 tags: []
 
+redirection:
+- /2009/03/12/coldfusion-8-displays-code-and-wont-execute/
+
 ---
 
 So after our Plesk 8 server crashed, Coldfusion didn't come back up as expected. Our code wouldn't execute and simply dumped the raw code to the browser. Displaying the code wasn't what I had in mind.
@@ -14,6 +17,10 @@ So after our Plesk 8 server crashed, Coldfusion didn't come back up as expected.
 After hours fighting with the crazy monster (and having to piece together instructions from countless online sources), I thought I'd pull it all together in one place. I hope you find this to be helpful!
 
 For us, this applied to:
+
+redirection:
+- 2009/03/12/coldfusion-8-displays-code-and-wont-execute/
+
 ---
 
 * Plesk 8.4 for Linux (CentOS)
@@ -36,6 +43,10 @@ For us, this applied to:
 * From wsconfig.log:02/18 21:53:44 error This web server is already configured for JRun.<br />jrunx.connectorinstaller.ConnectorInstallerException: This web server is already configured for JRun. at<br />jrunx.connectorinstaller.ApacheInstaller.installConnector(ApacheInstaller.java:186) at<br />jrunx.connectorinstaller.ConnectorInstaller.installConnector(ConnectorInstaller.java:338) at<br />jrunx.connectorinstaller.ConnectorInstaller.doIt(ConnectorInstaller.java:272) at<br />jrunx.connectorinstaller.ConnectorInstaller.main(ConnectorInstaller.java:762)
 
 Steps to correct the problem:
+
+redirection:
+- 2009/03/12/coldfusion-8-displays-code-and-wont-execute/
+
 ---
 
 *(The items after the # are console commands, I ran these all as "root".)*

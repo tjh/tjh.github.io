@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/17/ppl-day-4-functions-continued/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._Thanks to [Miles'](http://mileszs.com/) [example](http://mileszs.com/blog/2010/06/16/ppl-30-day-3-cassandra.html), I've included the above note on each of my posts, just in case you have no idea what all this PPL nonsense is about. On to today's work...Functions (method) represent the core to almost everything we do, so I spent some extra time in this chapter. The last few pages were pretty light and included a rather long code sample. It was striking just how small each of the methods in the example class were, with most being only one or two lines. The amazing thing was, while the class only had two public methods, there were probably 20 private methods. You'd think that would be a PITA to work through and dig around...but everything was so simplistic that even though it was Java code, I could read and understand it easily. The "pre-refactor" example code was around 45 lines, but was really tough to grok. Despite doubling the amount of code, it was a drastic improvement.## Today's reading: pg 47 - pg 52
 

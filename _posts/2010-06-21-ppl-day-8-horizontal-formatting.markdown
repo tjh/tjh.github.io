@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/21/ppl-day-8-horizontal-formatting/
+
 ---
 
 _This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) [Miles](http://mileszs.com/) and I embarked on._Monday morning and I'm back on track. It's barely 8:00am and I have my reading done.## Today's reading: pg 85 - pg 92

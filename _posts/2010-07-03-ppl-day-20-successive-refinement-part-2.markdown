@@ -7,6 +7,13 @@ categories: []
 
 tags: []
 
+redirects:
+- /2010/07/03/ppl-day-20-successive-refinement-part-2/
+
+
+redirection:
+- /2010/07/03/ppl-day-20-successive-refinement-part-2/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
 
@@ -24,4 +31,6 @@ Out of deference to the author and all the work he did on these examples, I won'
 
 ## What's next
 
-Always one to get going on the next thing...I'm already thinking about what I'll do next month. The ideas I like best involve either creating an app from scratch and applying Clean Code principles, or perhaps cleaning up my Twitter Filter or Am I Down.I may not be brave enough to commit to a full 30 days, but perhaps I can keep up the pace. Ideally, I would spend 30-60 minutes each day and post the repo and selected improvements as I go. My latest thinking is that I would implement Am I Down in Rails 3 with Reddis and maybe Mongo.
+Always one to get going on the next thing...I'm already thinking about what I'll do next month. The ideas I like best involve either creating an app from scratch and applying Clean Code principles, or perhaps cleaning up my Twitter Filter or Am I Down.
+
+I may not be brave enough to commit to a full 30 days, but perhaps I can keep up the pace. Ideally, I would spend 30-60 minutes each day and post the repo and selected improvements as I go. My latest thinking is that I would implement Am I Down in Rails 3 with Reddis and maybe Mongo.

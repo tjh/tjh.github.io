@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2009/12/31/for-sale-2-66-quad-core-nehalem-mac-pro/
+
 ---
 My business has transitioned significantly towards doing work onsite with clients and more frequent travel. Therefore, it no longer makes sense for me to maintain a monster-powered Mac Pro at my office. Heck, I'm only in the office one or two days now.For Sale - Like-new [Mac Pro with AppleCare](http://www.amazon.com/gp/product/B000R84UQ0/ref=ox_ya_oh_product):- 2.66 GHz Quad-Core Intel Xeon "Nehalem" processor
 - 3 GB RAM

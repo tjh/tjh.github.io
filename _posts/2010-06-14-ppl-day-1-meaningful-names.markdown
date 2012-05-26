@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/14/ppl-day-1-meaningful-names/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._In the next 30 days, I'll be reading [Clean Code](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882) pg 17 to 284 (Chapter 2 - Chapter 16) as a part of our [Peer Pressure Learning Experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/). That equates to about 9 pages each day.## Today's reading: pg 17 - pg 30
 

@@ -7,6 +7,9 @@ categories: []
 
 tags: []
 
+redirection:
+- /2009/09/23/rev-up-your-pragmatic-programmer-pdf-books/
+
 ---
 
 As a Ruby developer who spend a considerable amount of time with Rails, I'm a huge fan of the [Pragmatic Programmer](http://www.pragprog.com/) books and own a ridiculous number of them. While I have read several cover to cover, I find them most useful as reference guides when I need help on a specific topic.

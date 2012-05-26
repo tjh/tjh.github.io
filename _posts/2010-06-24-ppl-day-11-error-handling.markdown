@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/24/ppl-day-11-error-handling/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Read my [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) to learn more._
 

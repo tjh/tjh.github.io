@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2009/10/01/preview-rockford-ambulance-rebranding/
+
 ---
 Over the last several months, I have had the privilege of working with the team at Rockford Ambulance in western Michigan. Having spent several days with the leadership immersing myself in the culture and history, I have grown fond of the organization and the people who make it happen.![old logo](http://timharvey.net/wp-content/old_logo.png "old logo")We are moving aggressively to revamp their branding, arming them with the tools they need to grow beyond their core emergency ambulance services. By looking beyond just web sites and brochures, we are building a strong foundation where every touch a customer has reinforces the core personality and culture Rockford exudes.
 

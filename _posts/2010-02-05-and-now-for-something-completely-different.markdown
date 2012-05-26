@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/02/05/and-now-for-something-completely-different/
+
 ---
 I've had the pleasure of spending the last several months working with a terrific client on a Rails project. They quickly showed themselves to be an [ideal client](http://timharvey.net/2009/10/15/find-your-ideal-clients-then-take-amazing-care-of-them/), standing at the intersection of work that I relish and people I enjoy collaborating with. I find myself jumping out of bed each morning, itching to head in to their office and get started on the day. 
 
@@ -26,6 +30,10 @@ Bring it on!
 ===
 
 (Kuzco, The Emperor's New Groove)
+
+redirection:
+- /2010/02/05/and-now-for-something-completely-different/
+
 ---
 
 I can sense that the roller coaster just reached the top of the first hill. It's time for an awesome ride. I'm throwing my hands up and screaming like a banshee the whole way!

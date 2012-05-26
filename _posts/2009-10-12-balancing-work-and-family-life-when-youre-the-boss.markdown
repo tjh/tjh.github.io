@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2009/10/12/balancing-work-and-family-life-when-youre-the-boss/
+
 ---
 As a self-employed developer and consultant, I continually seek to refine my business methodologies, toolkit, and skills. That passion for constant improvement extends to my relationship with my family. Maintaining a healthy balance between the work that I love and the family I treasure represents an exciting challenge that requires regular evaluation and review. I vigorously protect my family time with strict limits on my work hours and try to give my full attention to the family when away from work. Making hay...===If you have ever been self-employed, you know that there are seasons when you have to work above and beyond. As the saying goes, "Make hay while the sun is shining." That's especially true for me right now as I look to work ahead so that I can take some time off for the imminent birth of our third little girl and respect several deadlines set with my clients.
 

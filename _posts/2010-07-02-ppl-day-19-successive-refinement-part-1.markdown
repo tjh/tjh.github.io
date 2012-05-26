@@ -7,6 +7,13 @@ categories: []
 
 tags: []
 
+redirects:
+- /2010/07/02/ppl-day-19-successive-refinement-part-1/
+
+
+redirection:
+- /2010/07/02/ppl-day-19-successive-refinement-part-1/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
 
@@ -14,7 +21,9 @@ It's actually not too late in the evening and the whole family is asleep. It's a
 
 ## Today's Reading: pg 177 - pg 186
 
-Well, not a lot to say for this first portion of the chapter. I will say this, I read a ton of code and need more time to digest it. Another run-through tomorrow will help.The following made me really happy I don't used Java:
+Well, not a lot to say for this first portion of the chapter. I will say this, I read a ton of code and need more time to digest it. Another run-through tomorrow will help.
+
+The following made me really happy I don't used Java:
 
 > It's remarkable how much code is required to flesh out the details of this simple concept. One of the reasons for this is that we are using a particularly wordy language. Java, being a statically typed language, requires a lot of words in order to satisfy the type system. In a language like Ruby, Python, or Smalltalk, this program is much smaller.
 

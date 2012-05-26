@@ -7,6 +7,9 @@ categories: []
 
 tags: []
 
+redirection:
+- /2008/02/21/finally-have-exchange-email-working-on-the-iphone/
+
 ---
 ![Apple iPhone](http://timharvey.net/wp-content/apple-iphone-here-181x300.gif "Apple iPhone")The iPhone now officially rocks my world.
 

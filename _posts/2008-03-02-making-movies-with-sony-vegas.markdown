@@ -7,6 +7,9 @@ categories: []
 
 tags: []
 
+redirection:
+- /2008/03/02/making-movies-with-sony-vegas/
+
 ---
 ![Vegas Move Studio Platinum](http://timharvey.net/wp-content/moviestudio-150x150.jpg "Vegas Move Studio Platinum")After years of doing our Christmas party videos at work in Pinnacle, I switched to Sony Vegas Movie Studio. I had always struggled with crashes and reliability, though I pressed on because Pinnacle’s software was cheap and simple to use. In late 2007, I started gearing up for the video again and read some reviews that trashed on Pinnacle (no surprise there) but pleasantly recommended Sony Vegas. It gets great reviews and while it isn’t as quick to pick up how to use, it’s been fantastic.
 

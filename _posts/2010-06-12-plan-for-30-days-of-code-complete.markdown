@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/12/plan-for-30-days-of-code-complete/
+
 ---
 [![](http://timharvey.net/wp-content/Screen-shot-2010-06-12-at-8.33.20-AM.png "Clean Code")](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882)Despite being out of town for the weekend, I snuck away for a few moments to begin planning my part of the Peer Pressure Learning experiment. Below are my initial thoughts on spending 30 consecutive days studying and practicing [Clean Code](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882).
 

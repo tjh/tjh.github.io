@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/19/ppl-day-6-bad-comments/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you got here from Google or some other site._This is my first weekend PPL day and it almost broke me! It's been a heavy week, so I was barely able to fall out of bed. Even then, it was 30 minutes later than usual and the kids were already going full steam. So here I am at 10:53pm because I really care a ton about this stuff. Thank goodness I got a Kindle copy of Clean Code as the paper one is collecting dust on my desk this weekend.As a brief aside, I got a ton out of [Gary V's talk from RailsConf](http://garyvaynerchuk.com/post/688601116/railsconf-2010-keynote). I listened to it three times today. His push to make sure you do what really means something to you resonates a ton with me. Go watch it!Enough rambling!## Today's reading: pg 59 - 74
 

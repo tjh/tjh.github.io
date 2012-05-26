@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/25/ppl-day-12-boundaries/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. The [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) post will make all things clear._
 

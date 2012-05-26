@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 20 technologies in 30 days
+
+redirection:
+- /2010/05/16/30-technologies-in-30-days/
+
 ---
 
 I'm feeling inspired by the "recent Smashing Magazine tribute to _Why":http://www.smashingmagazine.com/2010/05/15/why-a-tale-of-a-post-modern-genius/ and "a tweet from Ray Hightower":http://twitter.com/RayHightower/status/14046037600 about another developer who blogged about his month of new technology. I want to challenge myself to do the same. It's time to get back to creative exploration.  

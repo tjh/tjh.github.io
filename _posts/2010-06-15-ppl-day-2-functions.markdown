@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/15/ppl-day-2-functions/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._Today began with the first portion of Chapter 3: Functions from [Clean Code](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882). I stopped just before getting into function arguments.## Today's reading: pg 31 - pg 40
 

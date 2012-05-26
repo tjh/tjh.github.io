@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2009/12/30/for-sale-13-black-macbook/
+
 ---
 After just over a year of consulting work, I upgraded to a 17" MacBook Pro. So now I need to sell my original laptop.**For Sale** - [13" black MacBook](http://www.macrumors.com/2008/02/26/apple-releases-new-penryn-based-macbooks/) with:- 2.4 Ghz Core 2 Duo
 - 4 GB of ram (I upgraded it)

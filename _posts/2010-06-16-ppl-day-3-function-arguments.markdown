@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/16/ppl-day-3-function-arguments/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._I didn't make it as far as I planned as the material is pretty meaty in this section and really bears some time to review carefully. Having wrapped up function structure yesterday, this reading focused on function (method for the Rubyists in the crowd) arguments.## Today's reading: pg 40 - pg 47
 

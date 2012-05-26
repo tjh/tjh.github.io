@@ -7,6 +7,13 @@ categories: []
 
 tags: []
 
+redirects: 
+- /2010/07/07/ppl-falling-off-the-wagon/
+
+
+redirection:
+- /2010/07/07/ppl-falling-off-the-wagon/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you haven't been following along._
 
@@ -18,4 +25,6 @@ Yesterday got really interesting. After doing a spontaneous 10 mile ride in the 
 
 On the bright side, Peer Pressure Exercise and Geek Fitness are looking great. I've biked to work for three straight weeks and am beginning to get some longer rides in. Gotta look on the bright side, right? GRIN.
 
-So...I'm hoping to get back into it at lunch today, keeping the bleeding to just three days. If all goes well with the server move, perhaps I can get back on track before the [Indy.rb meetup](http://www.indyrb.org/) next week. If not, I think the heckling might be more than I can bear!End of sob story...back to the code!
+So...I'm hoping to get back into it at lunch today, keeping the bleeding to just three days. If all goes well with the server move, perhaps I can get back on track before the [Indy.rb meetup](http://www.indyrb.org/) next week. If not, I think the heckling might be more than I can bear!
+
+End of sob story...back to the code!

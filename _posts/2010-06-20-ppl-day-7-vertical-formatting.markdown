@@ -7,6 +7,10 @@ categories: []
 
 tags: []
 
+
+redirection:
+- /2010/06/20/ppl-day-7-vertical-formatting/
+
 ---
 _This is part of the Peer Pressure Learning 30 series. The [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) post will make all things clear._Once again, the weekend has almost been my undoing. I may have to accept that the weekend requires doing PPL at night before bed with weekdays sticking to the morning routine.## Today's reading: pg 75 - pg 84
 
