@@ -23,7 +23,10 @@ h3 {font-family: Helvetica, sans-serif; font-size: 18px; color:#666; line-height
 h4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1em; color:#000000;}
 h5 {font-size: 9pt; color:#000000;}
 
-img{border:none;}
+img{
+  border:none;
+  float: right;
+}
 img a{border:none;}
 blockquote{border-left:1px solid #A5ABAB; margin:0px; padding:0 12px 0 12px;}
 
