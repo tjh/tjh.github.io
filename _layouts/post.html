@@ -2,8 +2,10 @@
 layout: default
 ---
   <div class="post" id="post-<?php the_ID(); ?>">
-
-    <h2><a href="/">timharvey</a>: <b>{{ page.title }}</b></h2>
+    <h2>
+      <a href="/">timharvey</a><br /><br />
+      <b>{{ page.title }}</b>
+    </h2>
 
     <div class="entry">
       {{ page.content | markdownify }}
