@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Smell - Finding someone else's class names in your app
+title: Finding someone else's class names in your app
 
 ---
 
