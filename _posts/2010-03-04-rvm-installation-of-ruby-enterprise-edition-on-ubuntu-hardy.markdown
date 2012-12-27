@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: RVM installation of Ruby Enterprise Edition on Ubuntu Hardy
 wordpress_id: 334
@@ -27,4 +27,4 @@ But...back to the issue at hand. The solution became clear when I tried to insta
 
 From there, RVM installed REE no problem.
 
-**Update (3/5/2010):** Wayne, the author of RVM kindly wrote to me on Twitter within hours of this post to see if there was some working improperly with RVM. It turns out that I missed a clear set of instructions that indicated the need to install readline5 when using REE. Thanks Wayne!
+**Update (3/5/2010):** Wayne, the author of RVM kindly wrote to me on Twitter within hours of this post to see if there was something working improperly with RVM. It turns out that I missed a clear set of instructions that indicated the need to install readline5 when using REE. Thanks Wayne!
