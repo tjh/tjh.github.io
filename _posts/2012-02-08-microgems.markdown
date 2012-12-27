@@ -7,4 +7,4 @@ redirection:
 
 ---
 
-I presented on "MicroGems: eliminating barriers":/microgems at Indy.rb. 
+I presented on [MicroGems: eliminating barriers](/microgems) at Indy.rb.
