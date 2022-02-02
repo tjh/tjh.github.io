@@ -1,18 +1,16 @@
 h1. Blog built with Jekyll
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site.
+It is automatically transformed by "Jekyll":https://github.com/jekyll/jekyll into a static site.
 
 h1. License
 
-The following directories and their contents are Copyright Tim Harvey. You may not reuse anything therein without my permission:
+This site's contents are Copyright Tim Harvey. You may not reuse anything therein without my permission.
 
-* _posts/
-* images/
-
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+Any code from libraries/gems/plugins like Jekyll are covered by their own respective licenses, even if linked or copied into this repository.
 
 The theme is a [Jekyll] port of the [mnmlist WordPress Theme] made by [Leo Babuta], the Author of [mnmlist.com].
 
+[Jekyll]: https://github.com/jekyll/jekyll
 [mnmlist WordPress Theme]: http://mnmlist.com/theme/
 [Leo Babuta]: http://leobabauta.com/
 [mnmlist.com]: http://mnmlist.com/
