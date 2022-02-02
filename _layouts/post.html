@@ -20,6 +20,8 @@ layout: default
       {{ page.content | markdownify }}
     </div>
 
+    <p style="text-align: center;"><em>Published {{ page.date | date: "%B %d, %Y" }}</em></p>
+
     <div class="page-navigation">
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">&laquo; Prev: {{page.previous.title}}</a>
