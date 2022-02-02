@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 18 - Emergence"
 wordpress_id: 555
 wordpress_url: http://timharvey.net/?p=555
@@ -31,7 +31,7 @@ This chapter was actually pretty darn good. It boils down a lot of critical conc
 >  - No duplication
 >  - Fewest number of classes or methods
 
-There's a LOT of meat there. I can see this heuristic becoming extremely valuable. 
+There's a LOT of meat there. I can see this heuristic becoming extremely valuable.
 
 My biggest fault at this point is probably duplication. I really need to work on strategies for reducing duplication in my code. This challenges me to push harder on refactoring once my tests pass and the functionality works.
 

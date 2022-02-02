@@ -70,4 +70,9 @@ li{line-height: 30px; padding: 6px 0 0 0;}
 /*
  * Edits made by Tim Harvey
  */
-#container {min-width: 20em; max-width: 50em; margin: 0 auto 0 auto;}
+#container, #footer {min-width: 20em; max-width: 50em; margin: 0 auto 0 auto;}
+#footer p {text-align: center;}
+#footer p{letter-spacing:2px}
+#footer p{color: #c0c0c0;text-decoration: none;}
+
+.legacy .banner {padding: 8px 35px 8px 14px; margin-bottom: 18px; background-color: #fcf8e3; border: 1px solid #fbeed5; border-radius: 4px; color: #c09853; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}

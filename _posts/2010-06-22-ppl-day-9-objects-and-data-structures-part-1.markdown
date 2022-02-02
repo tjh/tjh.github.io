@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 9 - Objects and Data Structures Part 1"
 wordpress_id: 494
 wordpress_url: http://timharvey.net/?p=494

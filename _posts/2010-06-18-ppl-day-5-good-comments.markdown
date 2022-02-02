@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 5 - Good comments"
 wordpress_id: 468
 wordpress_url: http://timharvey.net/?p=468

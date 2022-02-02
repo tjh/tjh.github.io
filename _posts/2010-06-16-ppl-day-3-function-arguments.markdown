@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 3 - Function arguments"
 wordpress_id: 447
 wordpress_url: http://timharvey.net/?p=447

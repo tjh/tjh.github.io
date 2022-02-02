@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Peer Pressure Learning experiment
 wordpress_id: 396
@@ -12,7 +12,7 @@ redirect_from:
 - /2010/06/11/peer-pressure-learning-experiment/
 
 ---
-After a few weeks of talk, [@mileszs](http://twitter.com/mileszs) (of [Indy.rb](http://www.meetup.com/indyrb/) fame) and I began getting our first significant peer pressure.You see, we agreed to push each other to do [30 days of technology learning](http://timharvey.net/2010/05/16/30-technologies-in-30-days/). Despite some great intentions and preliminary planning, we haven't gotten anywhere. The Indy.rb group would have none of it and trashed us after the last meetup (which I happened to miss...boo).
+After a few weeks of talk, [@mileszs](http://twitter.com/mileszs) (of [Indy.rb](http://www.meetup.com/indyrb/) fame) and I began getting our first significant peer pressure.You see, we agreed to push each other to do [30 days of technology learning](/2010/05/16/30-technologies-in-30-days/). Despite some great intentions and preliminary planning, we haven't gotten anywhere. The Indy.rb group would have none of it and trashed us after the last meetup (which I happened to miss...boo).
 
 ## And now we code
 

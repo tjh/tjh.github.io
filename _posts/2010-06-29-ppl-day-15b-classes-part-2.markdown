@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 15b - Classes Part 2"
 wordpress_id: 529
 wordpress_url: http://timharvey.net/?p=529
@@ -19,7 +19,7 @@ _This is part of the Peer Pressure Learning 30 series. Jump to [my introduction 
 
 Ok, it's a day late, but I'm back on the wagon. It's really day 16, but I'll get back to that in a few moments. I need to play catch up first!
 
-I have to make a brief digression. This Peer Pressure Learning has impacted a number of areas in my life. I've found that as I've been more focused and disciplined, other priorities have felt more effortless. 
+I have to make a brief digression. This Peer Pressure Learning has impacted a number of areas in my life. I've found that as I've been more focused and disciplined, other priorities have felt more effortless.
 
 I've ridden my bike or walked to work almost two weeks now (with one or two breaks). That has paid off big-time for my soccer league. I've been a lot more effective on defense and logged my first assist today to bring us back from a 1-2 deficit. Geek fitness for the win! Ok, enough of that, back to the code!
 

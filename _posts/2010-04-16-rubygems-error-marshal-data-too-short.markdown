@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "RubyGems error: marshal data too short"
 wordpress_id: 356

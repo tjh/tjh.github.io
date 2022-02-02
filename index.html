@@ -25,6 +25,10 @@ title: timharvey.net
       {% for post in site.posts %}
         {% capture new_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture new_month %}{{ post.date | date: '%B' }}{% endcapture %}
+        {% capture post_layout %}{{ post.layout }}{% endcapture %}
+        {% if post.layout == 'legacy_post' %}
+          {% continue %}
+        {% endif %}
         {% if year != new_year %}
           <tr class="year">
             <th>
@@ -50,6 +54,7 @@ title: timharvey.net
       {% endfor %}
     </tbody>
   </table>
+  <h1 class="legacy-posts"><strong><a href="{{ site.github.url }}/legacy_archive">legacy posts »</a></strong></h1>
 
   <h2>Contact me</h1>
   <ul class="contacts">

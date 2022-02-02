@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 12 - Boundaries"
 wordpress_id: 509
 wordpress_url: http://timharvey.net/?p=509

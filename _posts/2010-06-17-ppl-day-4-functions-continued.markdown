@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 4 - Functions continued"
 wordpress_id: 453
 wordpress_url: http://timharvey.net/?p=453

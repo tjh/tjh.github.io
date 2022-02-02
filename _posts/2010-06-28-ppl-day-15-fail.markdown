@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 15 - FAIL"
 wordpress_id: 525
 wordpress_url: http://timharvey.net/2010/06/28/ppl-day-15-fail/

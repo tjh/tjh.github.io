@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: Making movies with Sony Vegas
 wordpress_id: 21
 wordpress_url: http://www.timharvey.net/2008/03/02/making-movies-with-sony-vegas/

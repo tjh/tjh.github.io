@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "PPL: Day 16 - Systems Part 1"
 wordpress_id: 533
 wordpress_url: http://timharvey.net/?p=533
@@ -35,4 +35,4 @@ Think, think, think before you go charging down a path with your classes. The au
 
 Realize that your toolkit or framework may fight against what you're trying to accomplish. While I don't know what you'd do about it, we have to realize that any framework we use was designed with a purpose or set of goals. Those may be different that we we need to accomplish with the current work at hand. I'm not suggesting that we throw out frameworks, merely that we understand their strengths and weaknesses. And at the same time, we learn to see clearly when it's time to buck the convention or stick to it.
 
-Finally, one must accept that you can't architect any system for the needs you'll have in 12-24 months. It's just not going to work out exactly the way you expect. As believers in Agile, we need to accept change and do what supports today's requirements with basic consideration for the future. We need to be wary of over-engineering. 
+Finally, one must accept that you can't architect any system for the needs you'll have in 12-24 months. It's just not going to work out exactly the way you expect. As believers in Agile, we need to accept change and do what supports today's requirements with basic consideration for the future. We need to be wary of over-engineering.

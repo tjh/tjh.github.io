@@ -1,5 +1,5 @@
---- 
-layout: post
+---
+layout: legacy_post
 title: "SOLD: 13\" black MacBook"
 wordpress_id: 225
 wordpress_url: http://timharvey.net/?p=225
