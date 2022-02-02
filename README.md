@@ -1,8 +1,8 @@
-h1. Blog built with Jekyll
+# Blog built with Jekyll
 
-It is automatically transformed by "Jekyll":https://github.com/jekyll/jekyll into a static site.
+It is automatically transformed by [Jekyll] into a static site.
 
-h1. License
+# License
 
 This site's contents are Copyright Tim Harvey. You may not reuse anything therein without my permission.
 
