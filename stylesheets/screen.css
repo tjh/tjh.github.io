@@ -44,8 +44,7 @@ ol{padding: .5em 0em 0em 3.2em;}
 li{line-height: 30px; padding: 6px 0 0 0;}
 
 
-#content {min-width: 20em; max-width: 30em;
-	margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;}
+#content {margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;}
 .entry a:link {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
 .entry a:visited {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
 .entry a:hover {color: #999; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0; text-decoration: none;}
@@ -59,10 +58,16 @@ li{line-height: 30px; padding: 6px 0 0 0;}
 
 
 #arc {float: right; width:530px; overflow: hidden; margin-top:0px; margin-left:14px; margin-right:14px; margin-bottom:24px;}
-.arc p{color:#666; font-family: 'Verdana, sans-serif; font-size: 12px; font-weight: normal !important;}
+.arc p{color:#666; font-family: 'Verdana, sans-serif'; font-size: 12px; font-weight: normal !important;}
 
-.year th{color:#666; font-family: Verdana, sans-serif; font-size: 22px; font-weight: bold;}
-.arctitle {color:#666; font-family: 'Verdana, sans-serif; font-size: 12px; font-weight: normal;}
-.arctitle th {color:#999; font-family: 'Verdana, sans-serif; font-size: 14px; font-weight: normal;}
-.arc2 {color:#999; font-family: 'Helvetica, sans-serif; font-size: 12px; font-weight: normal !important;}
-.arc2 th {color:#999; font-family: 'Helvetica, sans-serif; font-size: 12px; font-weight: normal !important;}
+.year th{color:#666; font-family: 'Verdana, sans-serif'; font-size: 22px; font-weight: bold;}
+.archive {color:#666; font-family: 'Verdana, sans-serif'; font-size: 12px; font-weight: normal;}
+.archive th {color:#999; font-family: 'Verdana, sans-serif'; font-size: 14px; font-weight: normal;}
+.arc2 {color:#999; font-family: 'Helvetica, sans-serif'; font-size: 12px; font-weight: normal !important;}
+.arc2 th {color:#999; font-family: 'Helvetica, sans-serif'; font-size: 12px; font-weight: normal !important;}
+
+
+/*
+ * Edits made by Tim Harvey
+ */
+#container {min-width: 20em; max-width: 50em; margin: 0 auto 0 auto;}
