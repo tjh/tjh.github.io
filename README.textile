@@ -10,3 +10,9 @@ The following directories and their contents are Copyright Tim Harvey. You may n
 * images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+
+The theme is a [Jekyll] port of the [mnmlist WordPress Theme] made by [Leo Babuta], the Author of [mnmlist.com].
+
+[mnmlist WordPress Theme]: http://mnmlist.com/theme/
+[Leo Babuta]: http://leobabauta.com/
+[mnmlist.com]: http://mnmlist.com/
