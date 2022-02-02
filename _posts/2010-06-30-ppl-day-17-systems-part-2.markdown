@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/06/30/ppl-day-17-systems-part-2/
-
-
 redirect_from:
 - /2010/06/30/ppl-day-17-systems-part-2/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you got here from Google or some other site._
+_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) if you got here from Google or some other site._
 
 Several mornings this past week were taken up by building [http://ervscafe.com/](http://ervscafe.com/) with [Vince](http://twitter.com/vincefrancesi). We did the site for free to help out the restaurant painfully stuffed into the 7th floor of our building. We love having Erv (his real name is Kevin) around to feed us. It's a pretty ghetto site, but the idea was quick and dirty.
 

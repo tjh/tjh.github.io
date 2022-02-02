@@ -12,7 +12,7 @@ redirect_from:
 - /2010/06/24/ppl-day-11-error-handling/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Read my [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) to learn more._
+_This is part of the Peer Pressure Learning 30 series. Read my [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) to learn more._
 
 After two days on Objects and Data Structures, I felt like I was beginning to get a better handle on the concepts. I'm pumped about today's topic as I've just been pondering how to handle bad inputs (to libraries) and thinking about alerting (to me) of recoverable error conditions.## Today's reading: pg 103 - pg 112
 

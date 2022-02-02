@@ -12,7 +12,7 @@ redirect_from:
 - /2010/06/26/ppl-day-13-unit-tests/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Get a handle on this PPL thing with my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._
+_This is part of the Peer Pressure Learning 30 series. Get a handle on this PPL thing with my [introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/)._
 
 It's the weekend, so I'm back to the evening groove. The morning was relaxed and the whole family and I went to visit the Amish farm that we buy all our meat, eggs, and chicken from. But that's another blog post.Today's posts is on unit tests. I'm trying not to be a snob as the Ruby community seems to really have testing nailed. Between Rspec and Cucumber, I'm in heaven. I have to remind myself that there's a lot to learn from the Java community and especially about writing good tests.
 

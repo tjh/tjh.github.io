@@ -127,7 +127,7 @@ This is the good stuff most of us get excited about when we consider our work. T
 
 There’s not a lot to say here, because generally we’re all pretty good at this! And if we fall down, users will let us know. :)
 
-# <a name="tldr"></a>TL;DR
+# <a name="tldr"></a>Summary
 
 There are generally four areas that we focus on as application developers:
 

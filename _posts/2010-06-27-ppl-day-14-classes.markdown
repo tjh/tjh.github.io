@@ -12,7 +12,7 @@ redirect_from:
 - /2010/06/27/ppl-day-14-classes/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. The [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) post will make all things clear._
+_This is part of the Peer Pressure Learning 30 series. The [introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) post will make all things clear._
 
 Whew, I almost forgot tonight! That would have been my first miss. Luckily, after toying with the Facebook API and FQL for a while, it dawned on me that I needed to finish reading the chapter on Classes (which I started this morning) and blog!
 

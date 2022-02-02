@@ -12,7 +12,7 @@ redirect_from:
 - /2010/06/23/ppl-day-10-objects-and-data-structures-part-2/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. You can [read all about it](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._
+_This is part of the Peer Pressure Learning 30 series. You can [read all about it](/2010/06/11/peer-pressure-learning-experiment/)._
 
 Yesterday's late morning led to a last-minute blog post. Thankfully, I read the text earlier in the day as it really warranted some consideration. Thankfully today, I'm back to the early groove.
 

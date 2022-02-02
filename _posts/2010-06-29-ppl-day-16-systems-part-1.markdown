@@ -7,17 +7,13 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/06/29/ppl-day-16-systems-part-1/
-
-
 redirect_from:
 - /2010/06/29/ppl-day-16-systems-part-1/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/)._
+_This is part of the Peer Pressure Learning 30 series. Take a gander at [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/)._
 
-Ok, I'm back on track with two blog posts today. My [Day 15b - Classes Part 2 post](http://timharvey.net/2010/06/29/ppl-day-15b-classes-part-2/) fills in the gap left by my [Day 15- FAIL](http://timharvey.net/2010/06/28/ppl-day-15-fail/).
+Ok, I'm back on track with two blog posts today. My [Day 15b - Classes Part 2 post](/2010/06/29/ppl-day-15b-classes-part-2/) fills in the gap left by my [Day 15- FAIL](/2010/06/28/ppl-day-15-fail/).
 
 I started into the rather heavy chapter on systems. It's a higher level look at clean code from the architecture and strategy perspective. A ton of it was either over my head (and heavy into Java) or was tough to apply with my Ruby on Rails goggles on.
 

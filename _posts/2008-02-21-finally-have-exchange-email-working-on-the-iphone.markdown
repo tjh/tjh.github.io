@@ -11,7 +11,7 @@ redirect_from:
 - /2008/02/21/finally-have-exchange-email-working-on-the-iphone/
 
 ---
-![Apple iPhone](http://timharvey.net/wp-content/apple-iphone-here-181x300.gif "Apple iPhone")The iPhone now officially rocks my world.
+The iPhone now officially rocks my world.
 
 Yea, it should have been WAY easier to setup a simple integration with my work email, but that certainly wasn't the case. However, the device offers so many other sexy features that I'm willing to overlook an evening of painful tinkering for the daily joy of using the iPhone. I mean, come on...how cool is it to cruise down the road and then accomplish the following sequence (at a stop light, of course):
 

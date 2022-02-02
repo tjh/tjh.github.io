@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/06/29/ppl-day-15b-classes-part-2/
-
-
 redirect_from:
 - /2010/06/29/ppl-day-15b-classes-part-2/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you haven't been following along._
+_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) if you haven't been following along._
 
 Ok, it's a day late, but I'm back on the wagon. It's really day 16, but I'll get back to that in a few moments. I need to play catch up first!
 

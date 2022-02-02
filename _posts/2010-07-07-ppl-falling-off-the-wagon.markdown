@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: PPL - Falling off the wagon
 wordpress_id: 578
@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects: 
-- /2010/07/07/ppl-falling-off-the-wagon/
-
-
 redirect_from:
 - /2010/07/07/ppl-falling-off-the-wagon/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you haven't been following along._
+_This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) if you haven't been following along._
 
 Wow, this week has been a PPL catastrophe for me. The following are all lame excuses, but I'll give them anyways.
 

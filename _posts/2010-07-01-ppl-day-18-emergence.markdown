@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/07/01/ppl-day-18-emergence/
-
-
 redirect_from:
 - /2010/07/01/ppl-day-18-emergence/
 
 ---
-_This is part of the Peer Pressure Learning 30 series, taking me through [Clean Code](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882) in 30 days. Take a gander at [my introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) if you have no idea what that means._
+_This is part of the Peer Pressure Learning 30 series, taking me through [Clean Code](http://www.amazon.com/gp/product/0132350882?ie=UTF8&tag=timharvethebl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0132350882) in 30 days. Take a gander at [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) if you have no idea what that means._
 
 The site I talked about yesterday, [http://ErvsCafe.com](http://ErvsCafe.com/) is available on GitHub if you [want to see the source](http://github.com/vincefrancesi/ervscafe). We'll continue to update that repo as we improve the site.
 

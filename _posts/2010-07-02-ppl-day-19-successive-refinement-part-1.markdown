@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/07/02/ppl-day-19-successive-refinement-part-1/
-
-
 redirect_from:
 - /2010/07/02/ppl-day-19-successive-refinement-part-1/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
+_This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
 
 It's actually not too late in the evening and the whole family is asleep. It's a good time to hit the Clean Code! The next couple chapters will be interesting to write about. There are several extended case studies, so it's a change of pace. We'll see what comes out of them!
 

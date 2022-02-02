@@ -28,13 +28,13 @@ It's not about having good ideas. Half the business books seem to be written by 
 
 ### 37 Signals
 
-![37signals Logo](http://timharvey.net/wp-content/37signals_logo.png)Their blog, Signal vs Noise, offers a steady stream of solid advice and hard-earned experience from the software service industry. They are stubbornly particular about not pleasing everyone, yet carefully crafting every one of their products to delight those who fit their products.
+Their blog, Signal vs Noise, offers a steady stream of solid advice and hard-earned experience from the software service industry. They are stubbornly particular about not pleasing everyone, yet carefully crafting every one of their products to delight those who fit their products.
 
 [Signal vs Noise Blog](http://37signals.com/svn "Signal vs Noise")
 
 ### Creative Good
 
-![good experience logo](http://timharvey.net/wp-content/good_experience_logo.gif)Mark Hurst and his team have been evangelizing for putting customer experience first for more than a decade. Their time-tested insight cut against much of mainstream "wisdom" while having a surprising authenticity. They walk the talk.
+Mark Hurst and his team have been evangelizing for putting customer experience first for more than a decade. Their time-tested insight cut against much of mainstream "wisdom" while having a surprising authenticity. They walk the talk.
 
 I especially appreciate their newsletter which offers concrete examples and input on why experience is so critical.
 
@@ -42,7 +42,7 @@ I especially appreciate their newsletter which offers concrete examples and inpu
 
 ### Zingerman's
 
-![guide to giving great service](http://timharvey.net/wp-content/guide_to_giving_great_service.jpg)A deli turned customer care/service powerhouse. Their simple perspective and brilliant execution (always the hard part) gives them tremendous credibility when it comes to customer happiness. No environment is harder than a retail store (especially food-related, I've been there).
+A deli turned customer care/service powerhouse. Their simple perspective and brilliant execution (always the hard part) gives them tremendous credibility when it comes to customer happiness. No environment is harder than a retail store (especially food-related, I've been there).
 
 Having visited one of their stores during a customer care research field trip, I can definitely say that their system and methodology is impressive.
 

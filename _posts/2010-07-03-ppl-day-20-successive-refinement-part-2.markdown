@@ -7,15 +7,11 @@ categories: []
 
 tags: []
 
-redirects:
-- /2010/07/03/ppl-day-20-successive-refinement-part-2/
-
-
 redirect_from:
 - /2010/07/03/ppl-day-20-successive-refinement-part-2/
 
 ---
-_This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](http://timharvey.net/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
+_This is part of the Peer Pressure Learning 30 series. Go read my [introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) that [Miles](http://mileszs.com/) and I embarked on._
 
 Since this is a pretty meaty chapter, I want to take my time and really internalize the lessons here. Just like a University's capstone course, these case study chapters should apply all the lessons that came before and help me see how it all comes together.
 
