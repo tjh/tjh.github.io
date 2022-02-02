@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 11 - Error handling"
 wordpress_id: 505
 wordpress_url: http://timharvey.net/?p=505

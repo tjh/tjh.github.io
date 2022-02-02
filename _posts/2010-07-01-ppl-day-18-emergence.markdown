@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 18 - Emergence"
 wordpress_id: 555
 wordpress_url: http://timharvey.net/?p=555

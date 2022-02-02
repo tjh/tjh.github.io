@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 1 - Meaningful names"
 wordpress_id: 410
 wordpress_url: http://timharvey.net/?p=410

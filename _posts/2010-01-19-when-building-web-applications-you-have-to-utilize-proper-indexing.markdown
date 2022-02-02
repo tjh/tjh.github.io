@@ -15,7 +15,13 @@ redirect_from:
 Rails does a lot of crazy wonderful stuff. The downside is that all that awesome power gives you the ability to make some pretty dumb moves. Just because I can get the URL for one of the sites my [Am I Down?](http://www.AmIDownHQ.com/) users get alerts for by using...{% highlight ruby %}current_user.sites[0].host.url{% endhighlight %}...doesn't mean that I necessarily should. That command generates some heavy SQL, running a join across several tables (after running a separate query to get the current user):
 
 {% highlight sql %}
-SELECT subscriptions.id AS t0_r0, subscriptions.user_id AS t0_r1, subscriptions.host_id AS t0_r2, subscriptions.alert_id AS t0_r3, subscriptions.created_at AS t0_r4, subscriptions.updated_at AS t0_r5, hosts.id AS t1_r0, hosts.url AS t1_r1, hosts.created_at AS t1_r2, hosts.updated_at AS t1_r3 FROM subscriptions LEFT OUTER JOIN hosts ON hosts.id = subscriptions.host_id WHERE ( subscriptions.user_id = 35) ORDER BY subscriptions.updated_at DESC, hosts.url ASC
+SELECT subscriptions.id AS t0_r0, subscriptions.user_id AS t0_r1,
+subscriptions.host_id AS t0_r2, subscriptions.alert_id AS t0_r3,
+subscriptions.created_at AS t0_r4, subscriptions.updated_at AS t0_r5,
+hosts.id AS t1_r0, hosts.url AS t1_r1, hosts.created_at AS t1_r2,
+hosts.updated_at AS t1_r3 FROM subscriptions LEFT OUTER JOIN hosts ON
+hosts.id = subscriptions.host_id WHERE ( subscriptions.user_id = 35)
+ORDER BY subscriptions.updated_at DESC, hosts.url ASC
 {% endhighlight %}
 
 That's going to take 21ms to run, just for a lookup. Is that a big deal? Perhaps not. Indexes (in the right situations) may make that SQL query run at an acceptable level.

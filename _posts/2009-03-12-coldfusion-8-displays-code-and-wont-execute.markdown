@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: Coldfusion 8 displays code and won't execute
 wordpress_id: 30
 wordpress_url: http://www.timharvey.net/2009/03/12/coldfusion-8-displays-code-and-wont-execute/

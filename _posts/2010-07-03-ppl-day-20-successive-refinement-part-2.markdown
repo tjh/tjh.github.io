@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 20 - Successive Refinement Part 2"
 wordpress_id: 574
 wordpress_url: http://timharvey.net/?p=574

@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 15b - Classes Part 2"
 wordpress_id: 529
 wordpress_url: http://timharvey.net/?p=529

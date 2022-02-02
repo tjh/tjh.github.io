@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "Preview: Rockford Ambulance rebranding"
 wordpress_id: 81
 wordpress_url: http://timharvey.net/?p=81

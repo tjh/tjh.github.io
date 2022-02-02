@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 7 - Vertical formatting"
 wordpress_id: 482
 wordpress_url: http://timharvey.net/?p=482

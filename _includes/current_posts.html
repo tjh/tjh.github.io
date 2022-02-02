@@ -1,0 +1,17 @@
+{% for post in site.posts %}
+    {% if post.legacy %}
+      {% continue %}
+    {% endif %}
+    {% assign currentyear = post.date | date: "%Y" %}
+    {% if currentyear != year %}
+    <tr class="year"><th><br><br>{{ currentyear }}</th></tr>
+      {% assign year = currentyear %}
+    {% assign month = 0 %}
+    {% endif %}
+  {% assign currentmonth = post.date | date: "%B" %}
+    {% if currentmonth != month %}
+    <tr class="archive"><th>{{ currentmonth }}</th></tr>
+      {% assign month = currentmonth %}
+    {% endif %}
+  <tr class="archive"><th>{{post.date | date:"%-d"}}</th><td><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></td></tr>
+{% endfor %}

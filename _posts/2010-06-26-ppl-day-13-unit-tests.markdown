@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 13 - Unit Tests"
 wordpress_id: 511
 wordpress_url: http://timharvey.net/?p=511

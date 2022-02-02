@@ -2,11 +2,20 @@
 layout: default
 title: legacy archives
 ---
+
+    <div class="legacy-banner">
+      <strong>Legacy Posts!</strong></br>
+      I've flagged these posts as they are either, 1) No longer relevant/useful,
+      or 2) Do not reflect my current thinking. Rather than delete these
+      outdated posts, I've left them up so that search engine links remain
+      intact and as a history of previous perspectives.
+    </div>
+
 <table>
 	<tbody>
 		<tr><th><h1><b>legacy posts</b></h1></th></tr>
 		{% for post in site.posts %}
-        {% if post.layout != 'legacy_post' %}
+        {% if post.legacy != true %}
           {% continue %}
         {% endif %}
 	  		{% assign currentyear = post.date | date: "%Y" %}

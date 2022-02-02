@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 8 - Horizontal formatting"
 wordpress_id: 490
 wordpress_url: http://timharvey.net/?p=490

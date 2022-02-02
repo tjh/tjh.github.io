@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: Finally have Exchange email working on the iPhone
 wordpress_id: 11
 wordpress_url: http://www.timharvey.net/2008/02/21/finally-have-exchange-email-working-on-the-iphone/

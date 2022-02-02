@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "PPL: Day 16 - Systems Part 1"
 wordpress_id: 533
 wordpress_url: http://timharvey.net/?p=533

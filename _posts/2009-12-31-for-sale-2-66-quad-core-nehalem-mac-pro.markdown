@@ -1,5 +1,6 @@
 ---
-layout: legacy_post
+layout: post
+legacy: true
 title: "SOLD: 2.66 Quad Core \"Nehalem\" Mac Pro"
 wordpress_id: 231
 wordpress_url: http://timharvey.net/?p=231
