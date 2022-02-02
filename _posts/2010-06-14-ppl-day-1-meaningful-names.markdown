@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/14/ppl-day-1-meaningful-names/
 
 ---

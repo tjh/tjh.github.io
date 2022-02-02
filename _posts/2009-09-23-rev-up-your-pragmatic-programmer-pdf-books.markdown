@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2009/09/23/rev-up-your-pragmatic-programmer-pdf-books/
 
 ---

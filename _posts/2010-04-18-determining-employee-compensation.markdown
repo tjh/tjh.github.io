@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/04/18/determining-employee-compensation/
 
 ---

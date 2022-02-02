@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/03/04/rvm-installation-of-ruby-enterprise-edition-on-ubuntu-hardy/
 
 ---

@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/19/ppl-day-6-bad-comments/
 
 ---

@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/17/ppl-day-4-functions-continued/
 
 ---

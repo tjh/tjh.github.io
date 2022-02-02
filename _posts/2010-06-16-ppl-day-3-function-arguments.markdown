@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/16/ppl-day-3-function-arguments/
 
 ---

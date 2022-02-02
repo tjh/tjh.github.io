@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2008/03/02/making-movies-with-sony-vegas/
 
 ---

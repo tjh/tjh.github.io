@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2009/09/29/rspec-cant-find-first-objectname/
 
 ---

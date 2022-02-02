@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/02/05/and-now-for-something-completely-different/
 
 ---

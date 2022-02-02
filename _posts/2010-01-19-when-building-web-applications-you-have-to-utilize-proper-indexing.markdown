@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/01/19/when-building-web-applications-you-have-to-utilize-proper-indexing/
 
 ---

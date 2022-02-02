@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2008/02/21/finally-have-exchange-email-working-on-the-iphone/
 
 ---

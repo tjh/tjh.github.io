@@ -11,7 +11,7 @@ redirects:
 - /2010/06/29/ppl-day-16-systems-part-1/
 
 
-redirection:
+redirect_from:
 - /2010/06/29/ppl-day-16-systems-part-1/
 
 ---

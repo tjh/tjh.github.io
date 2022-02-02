@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/01/21/validate-ruby-on-rails-model-entries-with-cucumber/
 
 ---

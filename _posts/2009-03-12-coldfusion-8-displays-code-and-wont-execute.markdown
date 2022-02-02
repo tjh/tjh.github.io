@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2009/03/12/coldfusion-8-displays-code-and-wont-execute/
 
 ---
@@ -18,7 +18,7 @@ After hours fighting with the crazy monster (and having to piece together instru
 
 For us, this applied to:
 
-redirection:
+redirect_from:
 - 2009/03/12/coldfusion-8-displays-code-and-wont-execute/
 
 ---
@@ -44,7 +44,7 @@ redirection:
 
 Steps to correct the problem:
 
-redirection:
+redirect_from:
 - 2009/03/12/coldfusion-8-displays-code-and-wont-execute/
 
 ---

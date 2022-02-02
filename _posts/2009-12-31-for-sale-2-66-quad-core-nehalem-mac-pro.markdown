@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/12/31/for-sale-2-66-quad-core-nehalem-mac-pro/
 
 ---

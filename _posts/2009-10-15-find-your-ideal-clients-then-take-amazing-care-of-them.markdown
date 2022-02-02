@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/15/find-your-ideal-clients-then-take-amazing-care-of-them/
 
 ---

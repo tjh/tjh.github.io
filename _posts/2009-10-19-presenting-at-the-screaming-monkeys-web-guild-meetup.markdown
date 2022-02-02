@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/19/presenting-at-the-screaming-monkeys-web-guild-meetup/
 
 ---

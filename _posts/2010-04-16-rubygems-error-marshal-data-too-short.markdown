@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/04/16/rubygems-error-marshal-data-too-short/
 
 ---

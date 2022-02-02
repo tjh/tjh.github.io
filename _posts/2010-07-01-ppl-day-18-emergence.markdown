@@ -11,7 +11,7 @@ redirects:
 - /2010/07/01/ppl-day-18-emergence/
 
 
-redirection:
+redirect_from:
 - /2010/07/01/ppl-day-18-emergence/
 
 ---

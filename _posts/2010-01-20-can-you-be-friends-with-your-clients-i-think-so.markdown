@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/01/20/can-you-be-friends-with-your-clients-i-think-so/
 
 ---

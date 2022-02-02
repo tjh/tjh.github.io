@@ -7,7 +7,7 @@ categories: []
 
 tags: []
 
-redirection:
+redirect_from:
 - /2009/07/20/screencast-simple-version-control-with-git/
 
 ---

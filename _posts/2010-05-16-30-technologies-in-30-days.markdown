@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/05/16/30-technologies-in-30-days/
 
 ---

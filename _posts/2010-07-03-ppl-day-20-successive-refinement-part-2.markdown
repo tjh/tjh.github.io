@@ -11,7 +11,7 @@ redirects:
 - /2010/07/03/ppl-day-20-successive-refinement-part-2/
 
 
-redirection:
+redirect_from:
 - /2010/07/03/ppl-day-20-successive-refinement-part-2/
 
 ---

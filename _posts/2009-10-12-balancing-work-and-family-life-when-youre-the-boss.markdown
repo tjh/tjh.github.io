@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/12/balancing-work-and-family-life-when-youre-the-boss/
 
 ---

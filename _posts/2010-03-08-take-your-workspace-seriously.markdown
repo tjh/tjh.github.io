@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/03/08/take-your-workspace-seriously/
 
 ---

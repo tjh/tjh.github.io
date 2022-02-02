@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/20/ppl-day-7-vertical-formatting/
 
 ---

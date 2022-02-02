@@ -11,7 +11,7 @@ redirects:
 - /2010/07/07/one-domain-moved-24-to-go/
 
 
-redirection:
+redirect_from:
 - /2010/07/07/one-domain-moved-24-to-go/
 
 ---

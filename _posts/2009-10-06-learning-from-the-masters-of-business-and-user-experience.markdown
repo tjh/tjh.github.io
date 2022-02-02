@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/06/learning-from-the-masters-of-business-and-user-experience/
 
 ---

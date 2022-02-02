@@ -11,7 +11,7 @@ redirects:
 - /2010/07/07/ppl-falling-off-the-wagon/
 
 
-redirection:
+redirect_from:
 - /2010/07/07/ppl-falling-off-the-wagon/
 
 ---

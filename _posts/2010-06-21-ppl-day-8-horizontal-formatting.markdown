@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/21/ppl-day-8-horizontal-formatting/
 
 ---

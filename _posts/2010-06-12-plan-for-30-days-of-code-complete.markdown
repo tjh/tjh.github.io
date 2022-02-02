@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/12/plan-for-30-days-of-code-complete/
 
 ---

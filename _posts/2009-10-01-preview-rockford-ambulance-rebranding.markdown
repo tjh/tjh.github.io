@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/01/preview-rockford-ambulance-rebranding/
 
 ---

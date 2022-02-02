@@ -11,7 +11,7 @@ redirects:
 - /2010/06/29/ppl-day-15b-classes-part-2/
 
 
-redirection:
+redirect_from:
 - /2010/06/29/ppl-day-15b-classes-part-2/
 
 ---

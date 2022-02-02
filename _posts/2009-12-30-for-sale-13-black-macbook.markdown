@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/12/30/for-sale-13-black-macbook/
 
 ---

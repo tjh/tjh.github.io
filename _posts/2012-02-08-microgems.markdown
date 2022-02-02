@@ -2,7 +2,7 @@
 layout: post
 title: Microgems
 
-redirection:
+redirect_from:
 - 2012/02/08/microgems/
 
 ---

@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2009/10/27/samantha-joy-harvey-joins-our-family/
 
 ---

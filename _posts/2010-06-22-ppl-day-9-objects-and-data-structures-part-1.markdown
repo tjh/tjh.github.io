@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 
-redirection:
+redirect_from:
 - /2010/06/22/ppl-day-9-objects-and-data-structures-part-1/
 
 ---
