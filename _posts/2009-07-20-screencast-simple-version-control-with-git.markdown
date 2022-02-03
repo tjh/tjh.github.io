@@ -13,4 +13,6 @@ redirect_from:
 ---
 I had the pleasure of presenting an overview of Git and GitHub to the Fort Wayne area web developer meetup, the [Screaming Monkeys Web Guild](http://www.screamingmonkeys.org/) with [Mike Krisher](http://mikekrisher.com/). I later recorded an audio voiceover of the presentation, below.
 
-<object height="300" width="400"><param value="true" name="allowfullscreen" /><param value="always" name="allowscriptaccess" /><param value="http://vimeo.com/moogaloop.swf?clip_id=5908609&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" name="movie" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5908609&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" height="300" width="400" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash"></embed></object>[Simple version control with Git](http://vimeo.com/5908609) from [Tim Harvey](http://vimeo.com/timharvey) on [Vimeo](http://vimeo.com).
+<iframe src="https://player.vimeo.com/video/5908609?h=d4f7296498" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+[Simple version control with Git](http://vimeo.com/5908609) from [Tim Harvey](http://vimeo.com/timharvey) on [Vimeo](http://vimeo.com).

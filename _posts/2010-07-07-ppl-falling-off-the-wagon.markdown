@@ -1,5 +1,6 @@
 ---
 layout: post
+legacy: true
 title: PPL - Falling off the wagon
 wordpress_id: 578
 wordpress_url: http://timharvey.net/?p=578

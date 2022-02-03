@@ -14,7 +14,7 @@ redirect_from:
 ---
 _This is part of the Peer Pressure Learning 30 series. Jump to [my introduction to the experiment](/2010/06/11/peer-pressure-learning-experiment/) if you got here from Google or some other site._
 
-Several mornings this past week were taken up by building [http://ervscafe.com/](http://ervscafe.com/) with [Vince](http://twitter.com/vincefrancesi). We did the site for free to help out the restaurant painfully stuffed into the 7th floor of our building. We love having Erv (his real name is Kevin) around to feed us. It's a pretty ghetto site, but the idea was quick and dirty.
+Several mornings this past week were taken up by building [http://ervscafe.com/](http://ervscafe.com/) with [Vince](http://twitter.com/vincefrancesi). We did the site for free to help out the restaurant painfully stuffed into the 7th floor of our building. We love having Erv (his real name is Kevin) around to feed us. It's a pretty basic site, but the idea was quick and dirty.
 
 With that pretty well done (I need to do a bit to the Rails app so he can update his specials), I'm back to having a bit more time for PPL. Hopefully tonight will be my last weekday post done in the evening for a while.
 
@@ -28,7 +28,9 @@ Whoa! Can you imagine an entire Rails app that used Models as data containers an
 
 Downside? That seems to fight against much of the Rails conventions and common practice, so implementing a solution in that manner would require treading very rough, new territory.
 
-I have a small portion of an app I did constructed somewhat this way. I've been wanting to write up a blog post on the topic as it's a pretty in-depth implementation. This chapter gives me hope that I just might have been onto something purely by chance!Another great standout from the chapter is the discussion of decision making. This nails it:
+I have a small portion of an app I did constructed somewhat this way. I've been wanting to write up a blog post on the topic as it's a pretty in-depth implementation. This chapter gives me hope that I just might have been onto something purely by chance!
+
+Another great standout from the chapter is the discussion of decision making. This nails it:
 
 > We often forget that it is also best to postpone decisions until the last possible moment. This isn't lazy or irresponsible; it lets us make informed choices with the best possible information.
 

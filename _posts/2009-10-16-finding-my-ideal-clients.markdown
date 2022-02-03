@@ -22,7 +22,13 @@ If that's you, I expect you to contact me in the next 2 minutes. You'll find a [
 
 # But what do you do?
 
-"But Tim," I hear you say, "You didn't say anything about the work you do." That's true, and very intentional. While most of my work ends up being technology-related, and specifically web site development, what separates my from any other developer sits outside the technology realm.It's about giving my customers **peace of mind**. I'm the guy who my clients (and previous employers) turn to when the game is on the line and they need to score (pardon the sports analogy, it's all I could come up with). While it may sound cliche, I make things happen. Yes, **I build killer web sites and online software**. They're perfect for my clients not because the technology is great. It's that they do what no one else could figure out how to do: accomplish my client's goals of more revenue, more customers, fewer errors, etc.The people I work with have problems they need solved, and never enough time to take care of everything. They're frustrated when working with people who need to be told what to do, or how to do it. There just isn't enough time in the day.I'm the guy who comes in and wants to know, "Where do you want to be in 6-12 months?" and "What issues plague your organization?" I sniff out the solutions to those problems, present my plan of action, and then get it done. My clients rest easy at night knowing that **I'm sweating the details** and **taking responsibility** for delivering success.
+"But Tim," I hear you say, "You didn't say anything about the work you do." That's true, and very intentional. While most of my work ends up being technology-related, and specifically web site development, what separates my from any other developer sits outside the technology realm.
+
+It's about giving my customers **peace of mind**. I'm the guy who my clients (and previous employers) turn to when the game is on the line and they need to score (pardon the sports analogy, it's all I could come up with). While it may sound cliche, I make things happen. Yes, **I build killer web sites and online software**. They're perfect for my clients not because the technology is great. It's that they do what no one else could figure out how to do: accomplish my client's goals of more revenue, more customers, fewer errors, etc.
+
+The people I work with have problems they need solved, and never enough time to take care of everything. They're frustrated when working with people who need to be told what to do, or how to do it. There just isn't enough time in the day.
+
+I'm the guy who comes in and wants to know, "Where do you want to be in 6-12 months?" and "What issues plague your organization?" I sniff out the solutions to those problems, present my plan of action, and then get it done. My clients rest easy at night knowing that **I'm sweating the details** and **taking responsibility** for delivering success.
 
 # You did what?
 

@@ -37,7 +37,9 @@ a:link {color: #333; text-decoration: none;}
 a:visited {color: #333; text-decoration: none;}
 a:hover {color: #999; text-decoration: none;}
 
-ul{padding: .5em 0em 1em 3.2em;}
+/*
+ * ul{padding: .5em 0em 1em 3.2em;}
+ */
 li{line-height: 30px; padding: 6px 0 0 0;}
 
 ol{padding: .5em 0em 0em 3.2em;}

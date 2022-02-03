@@ -12,48 +12,50 @@ So...next time you add a gem to your application, take a few moments to consider
 
 As an example, I recently implemented the fantastic stats tracking tool [InstrumentalApp](http://instrumentalapp.com/). Instead of referencing their gem directly throughout my code, I wrapped it up, making a change to another stat tracking library easier down the road:
 
-    module YourAppName
-      module Metrics
-        # All class methods
-        class << self
+{% highlight ruby %}
+module YourAppName
+  module Metrics
+    # All class methods
+    class << self
 
-          # Public: increment a counter with the given name
-          def increment(key_name)
-            I.increment(key_name)
-          end
+      # Public: increment a counter with the given name
+      def increment(key_name)
+        I.increment(key_name)
+      end
 
-          # Public: Record a value at the current time for the given keyname
-          def gauge(key_name, value)
-            I.gauge(key_name, value)
-          end
+      # Public: Record a value at the current time for the given keyname
+      def gauge(key_name, value)
+        I.gauge(key_name, value)
+      end
 
-          # Public: Store the time it takes to complete the given block
-          def time(key_name, &block)
-            I.time(key_name) do
-              yield
-            end
-          end
-
-          # Public: Store the time in ms it takes to complete the given block
-          def time_ms(key_name, &block)
-            I.time_ms(key_name) do
-              yield
-            end
-          end
-
-          # Public: Change whether the stats are recorded in the background
-          # without interrupting the request (and may be dropped if there are
-          # connection issues) or if it will block the request.
-          #
-          # Don't turn on "synchronous" in production or you'll have a bad time.
-          # It's really only for back-filling old data when we have all the
-          # time in the world and don't want to lose any metric.
-          def synchronous=(value)
-            I.synchronous = value
-          end
+      # Public: Store the time it takes to complete the given block
+      def time(key_name, &block)
+        I.time(key_name) do
+          yield
         end
       end
+
+      # Public: Store the time in ms it takes to complete the given block
+      def time_ms(key_name, &block)
+        I.time_ms(key_name) do
+          yield
+        end
+      end
+
+      # Public: Change whether the stats are recorded in the background
+      # without interrupting the request (and may be dropped if there are
+      # connection issues) or if it will block the request.
+      #
+      # Don't turn on "synchronous" in production or you'll have a bad time.
+      # It's really only for back-filling old data when we have all the
+      # time in the world and don't want to lose any metric.
+      def synchronous=(value)
+        I.synchronous = value
+      end
     end
+  end
+end
+{% endhighlight %}
 
 While we could get cute with Ruby and do some #method\_missing and \*args, I think it's better to be explicit with our proxy class. List the exact methods you will support long-term (since you'll need to keep them around if you switch libraries) and with what arguments.
 

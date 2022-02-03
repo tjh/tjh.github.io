@@ -18,7 +18,9 @@ I'll be presenting at the [Screaming Monkeys Web Guild meetup](http://www.meetup
 
 # Making magic with Heroku
 
-Ruby has long been a challenging language to use for small web sites because of the work required to configure and manage hosting. The investment makes perfect sense for large-scale apps, but really bogs down the smaller projects.The last 12 months have seen tremendous strides in the ease of Ruby deployment and none more revolutionary than [Heroku](http://heroku.com/). I don't want to discount other contributions like mod_rails (also known as [Phusion Passenger](http://www.modrails.com/)) that will have longer-term impact. Despite the power of mod_rails, Heroku offers tremendous scalability, ease of entry, and incredibly fast deployment with almost no setup that's unmatched.
+Ruby has long been a challenging language to use for small web sites because of the work required to configure and manage hosting. The investment makes perfect sense for large-scale apps, but really bogs down the smaller projects.
+
+The last 12 months have seen tremendous strides in the ease of Ruby deployment and none more revolutionary than [Heroku](http://heroku.com/). I don't want to discount other contributions like mod_rails (also known as [Phusion Passenger](http://www.modrails.com/)) that will have longer-term impact. Despite the power of mod_rails, Heroku offers tremendous scalability, ease of entry, and incredibly fast deployment with almost no setup that's unmatched.
 
 I'll be covering some of the basics:
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+legacy: true
 title: One domain moved...24 to go
 wordpress_id: 580
 wordpress_url: http://timharvey.net/?p=580

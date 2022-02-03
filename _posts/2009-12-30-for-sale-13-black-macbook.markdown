@@ -18,4 +18,5 @@ After just over a year of consulting work, I upgraded to a 17" MacBook Pro. So n
 - 250 GB drive
 - 3-year AppleCare protection with over a year left (purchased with the laptop around Aug of 2008)
 - Beautiful [Booq Slimcase](http://www.booqbags.com/Laptop-Bags/Boa-slimcase/Boa-slimcase-M) ($99.95 new) for travel in style. It's in like-new condition as these cases are tremendously well made
-**SOLD** - **$800**Interested? [Get in touch](http://www.literacy5.com/page/contacts/)!
+
+**SOLD** - **$800** Interested? [Get in touch](http://www.literacy5.com/page/contacts/)!

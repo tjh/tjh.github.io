@@ -34,10 +34,7 @@ Not sure you can make it through this whole article? I've summarized the critica
 
 It's important to note:
 
-    You cannot determine how much to compensate a person
-    for a given position without careful evaluation of
-    what the market will bear. Anything else would be
-    guessing.
+> You cannot determine how much to compensate a person for a given position without careful evaluation of what the market will bear. Anything else would be guessing.
 
 Market rate for a position can generally be determined by a careful analysis of:
 
@@ -100,8 +97,7 @@ When she put them up for sale at $20/each, none sold. At $2/each, she would have
 
 If you take nothing else away from this article, remember this:
 
-    When it comes to distributing money (setting prices),
-    the market ALWAYS decides. Always.
+> When it comes to distributing money (setting prices), the market ALWAYS decides. Always.
 
 This isn't communist Russia. Whether we like it or not, we like in the land of Adam Smith's capitalistic machine. The market decides what our Widget Express owner makes, plain and simple. There may be temporary forces at work (the government is always a good example), but ultimately, the market will force things back into balance. This is a gross simplification of macro and micro economics (both of which are fascinating), but the concept is sound. There is a ton of pricing theory that would muddy our discussion, so let's just live with $10 as the price.
 
@@ -177,7 +173,7 @@ The market typically sets lower compensation for team leaders than true managers
 
 I mentioned earlier that there's a lot of confusion about compensation. I've heard some common misconceptions about how to determine pay for a position. Here are some of the common factors that do not determine what the market will bear:
 
-* *Hard work* - There are two reasons that this really has nothing to do with compensation:
+* **Hard work** - There are two reasons that this really has nothing to do with compensation:
   1. Everyone is expected to work hard. People who don't should be fired. Hard work is not a differentiator.
   2. Profit is what matters to a company. Sweat only produces profit when an employee does the right work. Working really hard on the wrong things doesn't do anything particularly valueable for the organization. Good judgement and the ability to work hard on the right things ARE important X factors for a position.
 

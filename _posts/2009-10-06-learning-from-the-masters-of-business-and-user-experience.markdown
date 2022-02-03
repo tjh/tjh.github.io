@@ -15,7 +15,6 @@ redirect_from:
 The web offers your potential clients a glut of options when it comes to selecting who to buy a product or service from. It seems that most businesses choose one of two roads:
 
 * Focusing Outside: Focusing on what their customer needs while striving for excellence. Looking at best practices and always seeing opportunities to learn.
-
 * Looking Inside: Deciding what the business wants, then looking for customers who will accept doing operating on their terms. They see little value in constant improvement and assume that they already know all they need to.
 
 While the first perspective seems to be in the minority, there's a growing renaissance of small (and large) businesses taking up the call to delight the customer.
